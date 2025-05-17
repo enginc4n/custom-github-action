@@ -6,7 +6,7 @@ on:
       who-to-greet:
         description: "Who to greet?"
         required: true
-        default: "World"
+        default: "enginc4n"
 
 jobs:
   hello_world_job:
